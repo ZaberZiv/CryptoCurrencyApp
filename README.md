@@ -7,5 +7,7 @@ Used libs:
 Kotlin - RxJava - Room - Retrofit
 
 Screenshots:
+
+
 ![Image alt](https://github.com/ZaberZiv/CryptoCurrencyApp/blob/master/Screenshots/Screenshot_1606143662.png)
 ![Image alt](https://github.com/ZaberZiv/CryptoCurrencyApp/blob/master/Screenshots/Screenshot_1606143670.png)
